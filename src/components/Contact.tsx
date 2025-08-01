@@ -57,9 +57,9 @@ const contactInfo = [
 ];
 
 // Replace these with your actual EmailJS credentials
-const SERVICE_ID = 'your_service_id';
-const TEMPLATE_ID = 'your_template_id';
-const PUBLIC_KEY = 'your_public_key';
+const SERVICE_ID = 'service_crbazmi';
+const TEMPLATE_ID = 'template_u9v7chl';
+const PUBLIC_KEY = '4J54s1KTeE2CRz1JE';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
