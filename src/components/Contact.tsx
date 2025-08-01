@@ -22,7 +22,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+251 922 318 733 / +251703318733',
+    value: '+251922318733 / +251703318733',
     link: 'tel:+251922318733',
     gradient: 'from-green-500 to-emerald-500',
   },
