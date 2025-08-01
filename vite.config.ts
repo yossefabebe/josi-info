@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
- base: '/yosef.info/',
+  base: './', // ✅ Correct for Netlify
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
@@ -10,7 +10,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ['@emailjs/browser'], // ✅ avoid build crash
+      external: ['@emailjs/browser'],
     },
   },
 })
