@@ -93,7 +93,7 @@ const Contact = () => {
       setIsSubmitted(true);
       setFormData({ name: '', email: '', subject: '', message: '' });
     })
-    .catch((error) => {
+    .catch((error: unknown) => {
       console.error('EmailJS error:', error);
       alert('Failed to send message. Please try again.');
     });
