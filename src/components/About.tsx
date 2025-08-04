@@ -74,8 +74,7 @@ const About: React.FC = () => {
               </div>
             </div>
 
-            {/* 
-<div className="pt-6">
+            <div className="pt-6">
   <a
     href="/Yosef -CV.pdf"
     target="_blank"
@@ -86,7 +85,6 @@ const About: React.FC = () => {
     View Full CV
   </a>
 </div>
-*/}
 
           </div>
         </div>
