@@ -75,17 +75,16 @@ const About: React.FC = () => {
             </div>
 
             <div className="pt-6">
-  <a
-    href="/Yosef -CV.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-flex items-center px-6 py-3 bg-primary-600 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors shadow-lg hover:shadow-xl"
+           <a
+           href="/Yosef -CV.pdf"
+           target="_blank"
+           rel="noopener noreferrer"
+          className="inline-flex items-center px-6 py-3 bg-primary-600 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors shadow-lg hover:shadow-xl"
   >
-    <ExternalLink className="w-5 h-5 mr-2" />
-    View Full CV
-  </a>
-</div>
-
+        <ExternalLink className="w-5 h-5 mr-2" />
+        View Full CV
+        </a>
+        </div>
           </div>
         </div>
 
