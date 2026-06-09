@@ -67,7 +67,7 @@ const About: React.FC = () => {
                   Core Strengths
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  profession with Strong analytical, problem-solving, and multitasking skills with IT fields.
+                  profession with Strong analytical, problem-solving, and multitasking skills in IT.
                   Committed to continuous learning and staying current with emerging technologies.
                 </p>
               </div>
@@ -102,7 +102,7 @@ const About: React.FC = () => {
                 <div className="text-primary-600 font-medium">Network Administaror - Busa Gonofa Microfinance</div>
                 <div className="text-sm text-gray-600">Current position providing Network and system Admin in the Business sector</div>
               </div>
-              
+              </div>
           <div className="space-y-6">
             <div className="flex items-start space-x-4">
               <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
