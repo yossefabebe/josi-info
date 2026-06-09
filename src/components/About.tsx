@@ -100,7 +100,7 @@ const About: React.FC = () => {
               <div>
                 <div className="font-semibold text-gray-900">May 11, 2026 - Present</div>
                 <div className="text-primary-600 font-medium">Network Administaror - Busa Gonofa Microfinance</div>
-                <div className="text-sm text-gray-600">Current position providing Network and system managments in the Business sector</div>
+                <div className="text-sm text-gray-600">Current position providing Network and system Admin in the Business sector</div>
               </div>
               
           <div className="space-y-6">
