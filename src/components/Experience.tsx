@@ -3,10 +3,26 @@ import { Building, Calendar, MapPin, CheckCircle } from 'lucide-react';
 
 const Experience: React.FC = () => {
   const experiences = [
+      {
+      title: 'Network Administrator',
+      company: 'Busa Gonofa Microfinance',
+      duration: 'May 11, 2026 _ ',
+      location: 'Ethiopia',
+      responsibilities: [
+      'Maintained enterprise network systems, computing environments to support business operations.',
+      'Installed, configured, and managed network operating systems, servers, hardware, and communication components.',
+      'Monitored network performance, evaluated hardware, and ensured system reliability and security compliance.',
+      'Provided technical and administrative support for network infrastructure',
+      'Performed additional duties assigned by the Information Systems Manager.',
+      'Working around branches.',
+      'I have excellent interpersonal skills, good work ethic, and a positive work ethic.'
+      ],
+      technologies: ['Network Administration', 'System Management', 'IT Strategy']
+    },
     {
       title: 'IT Support Officer',
       company: 'Tana Drilling and Industries',
-      duration: 'July 04, 2024 - Present',
+      duration: 'July 04, 2024 - May 10, 2026 (2 years)',
       location: 'Ethiopia',
       responsibilities: [
         'Provide comprehensive technical support for industrial operations and equipment',
@@ -26,12 +42,11 @@ const Experience: React.FC = () => {
       responsibilities: [
         'Led comprehensive IT infrastructure management and strategic planning',
         'Supervised technical team and coordinated cross-departmental IT initiatives',
-        'Implemented network security protocols and system optimization strategies',
         'Managed hardware/software procurement, installation, and maintenance',
         'Developed and executed IT policies and procedures for organizational efficiency',
         'Provided technical leadership in system upgrades and technology adoption'
       ],
-      technologies: ['Network Administration', 'System Management', 'Team Leadership', 'IT Strategy']
+      technologies: ['system Suport', 'IT Assist', 'Team staff Leadership', 'IT Strategy']
     }
   ];
 
