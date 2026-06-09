@@ -11,10 +11,9 @@ const About: React.FC = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Passionate IT professional with proven experience in managing end-to-end infrastructure, 
-            network systems, and technical support. Skilled in maintaining servers, administering networks, 
-            and ensuring secure, efficient IT operations across both industrial and office environments. 
-            I bring a strong focus on reliability, compliance, and practical problem-solving to drive 
-            business continuity and performance.
+            network systems, and technical support. Skilled in monitoring servers, administering networks, 
+            and ensuring secure, efficient IT operations across my Career of educational, industrial and microfinance environments. 
+            
           </p>
         </div>
 
@@ -45,15 +44,16 @@ const About: React.FC = () => {
                   Professional Profile
                 </h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  With over 6 years of experience in IT support and systems management, I have developed 
-                  a comprehensive skill set that spans from hardware maintenance to strategic IT leadership. 
-                  My passion lies in creating efficient, secure technology solutions that empower organizations 
-                  to achieve their goals.
+                 With over 7 years of experience in the IT industry, 
+                 I have developed a comprehensive skill set in network administration, 
+                 system management, technical support, and IT infrastructure.
+                 My passion lies in delivering efficient technology solutions that empower organizations
+                 to achieve their goals, improve productivity, and drive continuous growth.
                 </p>
-                <p className="text-gray-600 leading-relaxed">
-                  Previously served as IT Head at Queens College for over 5 years, and currently working 
-                  as IT Support Officer at Tana Drilling and Industries, where I provide technical support 
-                  for industrial operations and implement innovative monitoring solutions.
+                <p className="text-gray-600 leading-relaxed"> 
+                  Previously served as IT Head at Queens' College for over 5 years and 
+                  as an IT Support Officer at Tana Drilling and Industries for 2 years. 
+                  Currently working as a Network Administrator at Busa Gonofa Microfinance.
                 </p>
               </div>
             </div>
@@ -67,9 +67,8 @@ const About: React.FC = () => {
                   Core Strengths
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Expert in multitasking, analytical problem-solving, and collaborative leadership. 
-                  Passionate about staying current with emerging technologies and best practices 
-                  in IT support and system administration.
+                  profession with Strong analytical, problem-solving, and multitasking skills with IT fields.
+                  Committed to continuous learning and staying current with emerging technologies.
                 </p>
               </div>
             </div>
@@ -94,14 +93,23 @@ const About: React.FC = () => {
           <h3 className="font-heading text-2xl font-bold text-gray-900 mb-6">
             Career Timeline
           </h3>
-          
+
+           <div className="space-y-6">
+            <div className="flex items-start space-x-4">
+              <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
+              <div>
+                <div className="font-semibold text-gray-900">May 11, 2026 - Present</div>
+                <div className="text-primary-600 font-medium">Network Administaror - Busa Gonofa Microfinance</div>
+                <div className="text-sm text-gray-600">Current position providing Network & system managment in Business sector</div>
+              </div>
+              
           <div className="space-y-6">
             <div className="flex items-start space-x-4">
               <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
               <div>
                 <div className="font-semibold text-gray-900">July 04, 2024 - Present</div>
                 <div className="text-primary-600 font-medium">IT Support Officer - Tana Drilling and Industries</div>
-                <div className="text-sm text-gray-600">Current position providing technical support for industrial operations</div>
+                <div className="text-sm text-gray-600">2 years for industrial operations</div>
               </div>
             </div>
 
