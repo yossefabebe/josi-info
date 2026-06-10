@@ -11,9 +11,9 @@ const Experience: React.FC = () => {
       responsibilities: [
       'Maintained enterprise network systems, computing environments to support business operations.',
       'Installed, configured, and managed network operating systems, servers, hardware, and communication components.',
-      'Monitored network performance, evaluated hardware, and ensured system reliability and security compliance.',
+      'Monitored network performance, evaluated hardware, and ensured system reliability (CBS) and security compliance.',
       'Provided technical and administrative support for network infrastructure',
-      'Performed additional duties assigned by the Information Systems Manager.',
+      'Performed additional duties assigned by the IT Manager.',
       'Working around branches.',
       'I have excellent interpersonal skills, good work ethic, and a positive work ethic.'
       ],
@@ -28,7 +28,6 @@ const Experience: React.FC = () => {
         'Provide comprehensive technical support for industrial operations and equipment',
         'Maintain and troubleshoot network infrastructure and communication systems',
         'Manage CCTV and PBX systems for organizational security and communication',
-        'Perform system analysis and implement quality management protocols',
         'Support data communication systems and web-based monitoring solutions',
         'Collaborate with teams to ensure optimal IT service delivery in industrial environment'
       ],
@@ -40,11 +39,11 @@ const Experience: React.FC = () => {
       duration: 'October 18, 2018 - July 04, 2024 (5+ years)',
       location: 'Addis Ababa, Ethiopia',
       responsibilities: [
-        'Led comprehensive IT infrastructure management and strategic planning',
+        'Led comprehensive IT infrastructure management',
         'Supervised technical team and coordinated cross-departmental IT initiatives',
         'Managed hardware/software procurement, installation, and maintenance',
-        'Developed and executed IT policies and procedures for organizational efficiency',
-        'Provided technical leadership in system upgrades and technology adoption'
+        'Assist IT labs students and staf teachers',
+        
       ],
       technologies: ['system Suport', 'IT Assist', 'Team staff Leadership', 'IT Strategy']
     }
