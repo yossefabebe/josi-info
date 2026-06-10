@@ -58,8 +58,8 @@ const Experience: React.FC = () => {
             Work Experience
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Over 6 years of progressive experience in IT head and IT infrastructure within 
-            educational and manufacturing industrial zones.
+            Over 7 years of progressive experience in IT within 
+            Microfinance, manufacturing industrial zones and educational sector.
           </p>
         </div>
 
