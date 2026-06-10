@@ -123,6 +123,15 @@ const About: React.FC = () => {
               </div>
             </div>
 
+             <div className="flex items-start space-x-4">
+              <div className="flex-shrink-0 w-3 h-3 bg-accent-600 rounded-full mt-2"></div>
+              <div>
+                <div className="font-semibold text-gray-900">Present</div>
+                <div className="text-accent-600 font-medium">Master's in Project Management</div>
+                <div className="text-sm text-gray-600">Queens' University College - In Progress</div>
+              </div>
+            </div>
+            
             <div className="flex items-start space-x-4">
               <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
               <div>
@@ -132,14 +141,7 @@ const About: React.FC = () => {
               </div>
             </div>
 
-            <div className="flex items-start space-x-4">
-              <div className="flex-shrink-0 w-3 h-3 bg-accent-600 rounded-full mt-2"></div>
-              <div>
-                <div className="font-semibold text-gray-900">Present</div>
-                <div className="text-accent-600 font-medium">Master's in Project Management</div>
-                <div className="text-sm text-gray-600">Queens' University College - In Progress</div>
-              </div>
-            </div>
+           
           </div>
         </div>
       </div>
