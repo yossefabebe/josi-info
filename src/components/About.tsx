@@ -109,7 +109,7 @@ const About: React.FC = () => {
               <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
               <div>
                 <div className="font-semibold text-gray-900">July 04, 2024 - May 10,2026</div>
-                <div className="text-primary-600 font-medium">IT Support Officer - Tana Drilling and Industries</div>
+                <div className="text-primary-600 font-medium">IT Support Officer - Tana Drilling and Industries plc</div>
                 <div className="text-sm text-gray-600">2 years for industrial operations</div>
               </div>
             </div>
