@@ -127,7 +127,7 @@ const About: React.FC = () => {
               <div className="flex-shrink-0 w-3 h-3 bg-accent-600 rounded-full mt-2"></div>
               <div>
                 <div className="font-semibold text-purple-900">Educational Qualifications</div>
-                <div className="text-accent-600 font-medium">Master's in Project Management</div>
+                <div className="text-green-600 font-medium">Master's in Project Management</div>
                 <div className="text-sm text-gray-600">Queens' University College - In Progress</div>
               </div>
             </div>
