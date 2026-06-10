@@ -9,12 +9,13 @@ const Experience: React.FC = () => {
       duration: 'May 11, 2026 _ ',
       location: 'Ethiopia',
       responsibilities: [
+      'Controlling the Abacus system tracking, monitoring loans and savings, ',
+      'Remotely monitoring our branch and resolving issues',
+      'Monitoring and supporting POS(CBS) and database transactions',
+      'Working around branches.',
       'Maintained enterprise network systems, computing environments to support business operations.',
       'Installed, configured, and managed network operating systems, servers, hardware, and communication components.',
       'Monitored network performance, evaluated hardware, and ensured system reliability (CBS) and security compliance.',
-      'Provided technical and administrative support for network infrastructure',
-      'Performed additional duties assigned by the IT Manager.',
-      'Working around branches.',
       'I have excellent interpersonal skills, good work ethic, and a positive work ethic.'
       ],
       technologies: ['Network Administration', 'System Management', 'IT Strategy']
