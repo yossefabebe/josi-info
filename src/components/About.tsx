@@ -103,6 +103,7 @@ const About: React.FC = () => {
                 <div className="text-sm text-gray-600">Current position providing Network and system Admin in the Business sector</div>
               </div>
               </div>
+             </div>
           <div className="space-y-6">
             <div className="flex items-start space-x-4">
               <div className="flex-shrink-0 w-3 h-3 bg-primary-600 rounded-full mt-2"></div>
