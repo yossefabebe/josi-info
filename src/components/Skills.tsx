@@ -5,19 +5,15 @@ const Skills: React.FC = () => {
   const technicalSkills = [
     { name: 'Hardware & Software Maintenance', level: 95, icon: Server },
     { name: 'Network Administration & Security', level: 92, icon: Network },
-    { name: 'System Administration', level: 90, icon: Shield },
-    { name: 'Server Management & Configuration', level: 88, icon: Server },
-    { name: 'CCTV & PBX Systems', level: 85, icon: Network },
-    { name: 'Cloud Services & Microsoft 365', level: 82, icon: Server },
-    { name: 'Data Communication Systems', level: 80, icon: Network },
+    { name: 'System Administration', level: 80, icon: Shield },
+    { name: 'CCTV & PBX Systems', level: 80, icon: Network },
     { name: 'Quality Management Systems', level: 78, icon: Shield },
   ];
 
   const softSkills = [
-    { name: 'IT Leadership & Team Management', level: 95, icon: Users },
+    { name: 'IT Leadership & Team Management', level: 85, icon: Users },
     { name: 'Technical Problem-Solving', level: 93, icon: Lightbulb },
-    { name: 'Project Management', level: 90, icon: Lightbulb },
-    { name: 'Cross-functional Collaboration', level: 88, icon: Users },
+    { name: 'Project Management', level: 80, icon: Lightbulb },
     { name: 'Strategic IT Planning', level: 85, icon: Lightbulb },
     { name: 'Technical Documentation', level: 87, icon: Users },
   ];
