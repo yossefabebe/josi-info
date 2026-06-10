@@ -53,7 +53,7 @@ const Skills: React.FC = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Comprehensive IT skills developed through hands-on experience in infrastructure management, 
-            network administration, and technical leadership across educational and industrial environments.
+            network administration, and technical leadership across microfinanc, industrial and educational environments.
           </p>
         </div>
 
