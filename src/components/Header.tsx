@@ -80,7 +80,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection }) => {
                 </button>
               ))}
               <a
-                href="/Yosef -CV.pdf"
+                href="/Yosef-MY-CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-3 bg-gradient-to-r from-accent-500 to-orange-500 text-white text-sm font-medium rounded-lg hover:from-accent-600 hover:to-orange-600 transition-all duration-300 w-fit shadow-lg"
