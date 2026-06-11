@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
           
           <div className="text-xl md:text-2xl text-gray-600 mb-8 font-medium">
             <span className="block mb-2">IT Professional | Network & System Support Specialist</span>
-            <span className="block text-primary-700">Technical Leader</span>
+            <span className="block text-primary-700">Network Administrator</span>
           </div>
 
           <div className="text-lg md:text-xl text-gray-700 mb-12 max-w-4xl mx-auto min-h-[60px]">
