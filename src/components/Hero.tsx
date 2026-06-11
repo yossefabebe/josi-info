@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
               View My Work
             </button>
             <a
-              href="/Yosef -CV.pdf"
+              href="/Yosef-MY-CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 border-2 border-primary-600 text-primary-600 font-medium rounded-lg hover:bg-primary-600 hover:text-white transition-colors"
